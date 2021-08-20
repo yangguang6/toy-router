@@ -1,0 +1,17 @@
+{
+  "name": "toy-router",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "vite": "^2.4.4",
+    "vite-plugin-vue2": "^1.8.1",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
